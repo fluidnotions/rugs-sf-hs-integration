@@ -101,14 +101,14 @@ export class SfService {
     if (!this.initial) {
       const currentDate = new Date();
       const startDate = new Date(currentDate.getTime() - this.pollMilliseconds);
-      const startDateString = startDate.toISOString().slice(0, 19) + 'Z'; // e.g. "2023-05-28T12:34:56Z"
+      const startDateString = startDate.toISOString()
       this.persistanceService.setLastSync(startDateString);
       return startDateString;
     } else {
       this.initial = false;
       return (
         this.persistanceService.getLastSync() ||
-        new Date('2022-01-01').toISOString().slice(0, 19) + 'Z'
+        new Date('2022-01-01').toISOString()
       );
     }
   }
@@ -119,8 +119,10 @@ export class SfService {
     if(!startDate) {
       startDate = this.getFromTimeStamp();
     }
+    const query =  `SELECT OwnerId, Title, Email, Phone,  Account.Id, Account.Name,  Account.AccountNumber,  Account.OwnerId,  Account.Website,  Account.ShippingAddress, CreatedDate, LastModifiedDate, Account.CreatedDate, Account.LastModifiedDate FROM Contact WHERE (CreatedDate >= ${startDate} OR LastModifiedDate >= ${startDate}) OR (Account.CreatedDate >= ${startDate} OR Account.LastModifiedDate >= ${startDate}) `
+    this.logger.info(`SfService : fetchAllContactsAssociatedAccount : query: ${query}`);
     const response = await this.jsForce.query(
-      `SELECT OwnerId, Title, Email, Phone,  Account.Id, Account.Name,  Account.AccountNumber,  Account.OwnerId,  Account.Website,  Account.ShippingAddress, CreatedDate, LastModifiedDate, Account.CreatedDate, Account.LastModifiedDate FROM Contact WHERE (CreatedDate >= ${startDate} OR LastModifiedDate >= ${startDate}) OR (Account.CreatedDate >= ${startDate} OR Account.LastModifiedDate >= ${startDate}) `,
+      query
     );
     return response.records;
   }

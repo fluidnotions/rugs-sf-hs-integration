@@ -1,0 +1,163 @@
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685339511476","signature":"qf8lBER1qzx73k2kjArO+hQN22CSP9+85nCpr0c3xvo="}
+info: AppModule : intervalJob : data.length: 27
+info: HsService : contactExists : nadp@stores.com : results.total: 0
+info: HsService : contactExists : jdoe@home.com : results.total: 0
+info: HsService : contactExists : bsom@source.com : results.total: 0
+info: HsService : contactExists : vocir@mailinator.com : results.total: 0
+info: HsService : contactExists : tevoqil@mailinator.com : results.total: 0
+info: HsService : contactExists : jibo@mailinator.com : results.total: 0
+info: HsService : contactExists : xagif@mailinator.com : results.total: 0
+info: HsService : contactExists : spavlova@uog.com : results.total: 0
+info: HsService : contactExists : lboyle@uog.com : results.total: 0
+error: Email b.levy@expressl&t.net is invalid, for item: {"attributes":{"type":"Contact","url":"/services/data/v42.0/sobjects/Contact/0038e00000DUWYcAAP"},"OwnerId":"0058e0000014qqKAAQ","Title":"SVP, Operations","Email":"b.levy@expressl&t.net","Phone":"(503) 421-7800","Account":{"attributes":{"type":"Account","url":"/services/data/v42.0/sobjects/Account/0018e00000FpI3mAAF"},"Id":"0018e00000FpI3mAAF","Name":"Express Logistics and Transport","AccountNumber":"CC947211","OwnerId":"0058e0000014qqKAAQ","Website":"www.expressl&t.net","ShippingAddress":{"city":null,"country":null,"geocodeAccuracy":null,"latitude":null,"longitude":null,"postalCode":null,"state":null,"street":"620 SW 5th Avenue Suite 400\nPortland, Oregon 97204\nUnited States"}},"CreatedDate":"2023-05-26T23:40:49.000+0000","LastModifiedDate":"2023-05-26T23:40:49.000+0000"}
+error: Email j.davis@expressl&t.net is invalid, for item: {"attributes":{"type":"Contact","url":"/services/data/v42.0/sobjects/Contact/0038e00000DUWYdAAP"},"OwnerId":"0058e0000014qqKAAQ","Title":"Director, Warehouse Mgmt","Email":"j.davis@expressl&t.net","Phone":"(503) 421-7800","Account":{"attributes":{"type":"Account","url":"/services/data/v42.0/sobjects/Account/0018e00000FpI3mAAF"},"Id":"0018e00000FpI3mAAF","Name":"Express Logistics and Transport","AccountNumber":"CC947211","OwnerId":"0058e0000014qqKAAQ","Website":"www.expressl&t.net","ShippingAddress":{"city":null,"country":null,"geocodeAccuracy":null,"latitude":null,"longitude":null,"postalCode":null,"state":null,"street":"620 SW 5th Avenue Suite 400\nPortland, Oregon 97204\nUnited States"}},"CreatedDate":"2023-05-26T23:40:49.000+0000","LastModifiedDate":"2023-05-26T23:40:49.000+0000"}
+info: HsService : contactExists : jane_gray@uoa.edu : results.total: 0
+info: AppModule : intervalJob : data.length: 0
+info: HsService : contactExists : asong@uog.com : results.total: 0
+info: HsService : contactExists : ajames@uog.com : results.total: 0
+info: HsService : contactExists : tripley@uog.com : results.total: 0
+info: HsService : contactExists : ldcruz@uog.com : results.total: 0
+info: HsService : contactExists : efrank@genepoint.com : results.total: 0
+info: HsService : contactExists : agreen@uog.com : results.total: 0
+info: Email is null, for item: {"attributes":{"type":"Contact","url":"/services/data/v42.0/sobjects/Contact/0038e00000DUWYlAAP"},"OwnerId":"0058e0000014qqKAAQ","Title":null,"Email":null,"Phone":null,"Account":{"attributes":{"type":"Account","url":"/services/data/v42.0/sobjects/Account/0018e00000FpI3rAAF"},"Id":"0018e00000FpI3rAAF","Name":"sForce","AccountNumber":null,"OwnerId":"0058e0000014qqKAAQ","Website":"www.sforce.com","ShippingAddress":null},"CreatedDate":"2023-05-26T23:40:49.000+0000","LastModifiedDate":"2023-05-26T23:40:49.000+0000"}
+info: Email is null, for item: {"attributes":{"type":"Contact","url":"/services/data/v42.0/sobjects/Contact/0038e00000DUWYmAAP"},"OwnerId":"0058e0000014qqKAAQ","Title":null,"Email":null,"Phone":null,"Account":{"attributes":{"type":"Account","url":"/services/data/v42.0/sobjects/Account/0018e00000FpI3rAAF"},"Id":"0018e00000FpI3rAAF","Name":"sForce","AccountNumber":null,"OwnerId":"0058e0000014qqKAAQ","Website":"www.sforce.com","ShippingAddress":null},"CreatedDate":"2023-05-26T23:40:49.000+0000","LastModifiedDate":"2023-05-26T23:40:49.000+0000"}
+info: HsService : contactExists : rose@edge.com : results.total: 0
+info: HsService : contactExists : sean@edge.com : results.total: 0
+info: HsService : contactExists : jrogers@burlington.com : results.total: 0
+info: HsService : contactExists : pat@pyramid.net : results.total: 0
+info: HsService : contactExists : a_young@dickenson.com : results.total: 0
+info: HsService : contactExists : barr_tim@grandhotels.com : results.total: 0
+info: HsService : contactExists : bond_john@grandhotels.com : results.total: 0
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888190291
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888205709
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888205708
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888190292
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888205707
+info: HsService : createCompanyWithAssociatedContact : companyId: 15887949489
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888164898
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888194603
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888143534
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888146022
+info: HsService : createCompanyWithAssociatedContact : companyId: 15887924375
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888169145
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888161855
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888153908
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888185728
+info: HsService : createCompanyWithAssociatedContact : companyId: 15887912974
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888173399
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888200049
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888148276
+info: HsService : createCompanyWithAssociatedContact : companyId: 15887910561
+info: HsService : createCompanyWithAssociatedContact : contactId: 93701
+info: HsService : createCompanyWithAssociatedContact : contactId: 93651
+info: HsService : createCompanyWithAssociatedContact : contactId: 93951
+info: HsService : createCompanyWithAssociatedContact : contactId: 93751
+info: HsService : createCompanyWithAssociatedContact : contactId: 94001
+info: HsService : createCompanyWithAssociatedContact : contactId: 94301
+info: HsService : createCompanyWithAssociatedContact : contactId: 93901
+info: HsService : createCompanyWithAssociatedContact : contactId: 93851
+info: HsService : createCompanyWithAssociatedContact : contactId: 93801
+info: HsService : createCompanyWithAssociatedContact : contactId: 94251
+info: HsService : createCompanyWithAssociatedContact : contactId: 94201
+info: HsService : createCompanyWithAssociatedContact : contactId: 94101
+info: HsService : createCompanyWithAssociatedContact : contactId: 94051
+info: HsService : createCompanyWithAssociatedContact : contactId: 94351
+info: HsService : createCompanyWithAssociatedContact : contactId: 94151
+info: HsService : createCompanyWithAssociatedContact : contactId: 94401
+info: HsService : createCompanyWithAssociatedContact : contactId: 93702
+info: HsService : createCompanyWithAssociatedContact : contactId: 94052
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888161856
+info: HsService : createCompanyWithAssociatedContact : companyId: 15887944775
+info: HsService : createCompanyWithAssociatedContact : companyId: 15888204039
+info: HsService : createCompanyWithAssociatedContact : contactId: 93902
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"93701"},"to":{"id":"15888205709"},"type":"contact_to_company"},{"_from":{"id":"15888205709"},"to":{"id":"93701"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.874Z","completedAt":"2023-05-29T05:52:19.951Z"}
+info: HsService : createCompanyWithAssociatedContact : contactId: 94152
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"93951"},"to":{"id":"15888164898"},"type":"contact_to_company"},{"_from":{"id":"15888164898"},"to":{"id":"93951"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.904Z","completedAt":"2023-05-29T05:52:19.970Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888190291"},"to":{"id":"93651"},"type":"company_to_contact"},{"_from":{"id":"93651"},"to":{"id":"15888190291"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.884Z","completedAt":"2023-05-29T05:52:19.968Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888194603"},"to":{"id":"94001"},"type":"company_to_contact"},{"_from":{"id":"94001"},"to":{"id":"15888194603"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.899Z","completedAt":"2023-05-29T05:52:19.974Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888205708"},"to":{"id":"93751"},"type":"company_to_contact"},{"_from":{"id":"93751"},"to":{"id":"15888205708"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.910Z","completedAt":"2023-05-29T05:52:19.975Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94251"},"to":{"id":"15888153908"},"type":"contact_to_company"},{"_from":{"id":"15888153908"},"to":{"id":"94251"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.923Z","completedAt":"2023-05-29T05:52:19.983Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888173399"},"to":{"id":"94201"},"type":"company_to_contact"},{"_from":{"id":"94201"},"to":{"id":"15888173399"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.914Z","completedAt":"2023-05-29T05:52:19.986Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94051"},"to":{"id":"15888161855"},"type":"contact_to_company"},{"_from":{"id":"15888161855"},"to":{"id":"94051"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.924Z","completedAt":"2023-05-29T05:52:19.985Z"}
+info: HsService : createCompanyWithAssociatedContact : contactId: 94352
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94301"},"to":{"id":"15887912974"},"type":"contact_to_company"},{"_from":{"id":"15887912974"},"to":{"id":"94301"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.920Z","completedAt":"2023-05-29T05:52:19.989Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94351"},"to":{"id":"15888205707"},"type":"contact_to_company"},{"_from":{"id":"15888205707"},"to":{"id":"94351"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.910Z","completedAt":"2023-05-29T05:52:19.982Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888146022"},"to":{"id":"94151"},"type":"company_to_contact"},{"_from":{"id":"94151"},"to":{"id":"15888146022"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.929Z","completedAt":"2023-05-29T05:52:19.992Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"93851"},"to":{"id":"15888190292"},"type":"contact_to_company"},{"_from":{"id":"15888190292"},"to":{"id":"93851"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.934Z","completedAt":"2023-05-29T05:52:19.999Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888148276"},"to":{"id":"93702"},"type":"company_to_contact"},{"_from":{"id":"93702"},"to":{"id":"15888148276"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.920Z","completedAt":"2023-05-29T05:52:20.002Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15887949489"},"to":{"id":"94101"},"type":"company_to_contact"},{"_from":{"id":"94101"},"to":{"id":"15887949489"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.914Z","completedAt":"2023-05-29T05:52:20.002Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94401"},"to":{"id":"15888185728"},"type":"contact_to_company"},{"_from":{"id":"15888185728"},"to":{"id":"94401"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:19.918Z","completedAt":"2023-05-29T05:52:20.006Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888143534"},"to":{"id":"93901"},"type":"company_to_contact"},{"_from":{"id":"93901"},"to":{"id":"15888143534"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:19.914Z","completedAt":"2023-05-29T05:52:20.007Z"}
+info: HsService : createCompanyWithAssociatedContact : contactId: 94451
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888204039"},"to":{"id":"94152"},"type":"company_to_contact"},{"_from":{"id":"94152"},"to":{"id":"15888204039"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:20.568Z","completedAt":"2023-05-29T05:52:20.636Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"93902"},"to":{"id":"15888161856"},"type":"contact_to_company"},{"_from":{"id":"15888161856"},"to":{"id":"93902"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:20.539Z","completedAt":"2023-05-29T05:52:20.649Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"94352"},"to":{"id":"15887924375"},"type":"contact_to_company"},{"_from":{"id":"15887924375"},"to":{"id":"94352"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:20.627Z","completedAt":"2023-05-29T05:52:20.732Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15888169145"},"to":{"id":"94451"},"type":"company_to_contact"},{"_from":{"id":"94451"},"to":{"id":"15888169145"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:20.666Z","completedAt":"2023-05-29T05:52:20.735Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"93801"},"to":{"id":"15888200049"},"type":"contact_to_company"},{"_from":{"id":"15888200049"},"to":{"id":"93801"},"type":"company_to_contact"}],"startedAt":"2023-05-29T05:52:20.677Z","completedAt":"2023-05-29T05:52:20.738Z"}
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15887910561"},"to":{"id":"94052"},"type":"company_to_contact"},{"_from":{"id":"94052"},"to":{"id":"15887910561"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:20.687Z","completedAt":"2023-05-29T05:52:20.758Z"}
+info: HsService : createCompanyWithAssociatedContact : contactId: 94501
+info: HsService : createCompanyWithAssociatedContact : assResult: {"status":"COMPLETE","results":[{"_from":{"id":"15887944775"},"to":{"id":"94501"},"type":"company_to_contact"},{"_from":{"id":"94501"},"to":{"id":"15887944775"},"type":"contact_to_company"}],"startedAt":"2023-05-29T05:52:21.549Z","completedAt":"2023-05-29T05:52:21.634Z"}
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340029761","signature":"aNdIFeaVqJn/cbajwfravdYPaSACfgh6ianuI7OTHcE="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340030618","signature":"lj4YwBZP9JdKP90Ku7K73Zn/FQyzTx3EIdpqu8KwOpU="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340096894","signature":"nhJUPvsdjwHZiKQokXvhOfJ7/xZiijzX2Dp1Pb909vI="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340097764","signature":"/AcMdsiWI4bB+RENLC99uiIG1TBWsUJGF5hqxW/gknA="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340138357","signature":"ZvCzwv/O7gWiSPcj5M4h4cIxESJkF0KlnWtBKteSo4c="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340139149","signature":"wrtgmFh5giBib5Ht9j76ucLxuDwaAOKeOuMXsuHog0g="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340442304","signature":"xj/e7HqeSdbq65S7dZn2miPTqyRJYRZuQxaSGKFo4kE="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340443352","signature":"IuqGDg9YKUz5KUg5QM1vBTwBSuupLu7JkKWy4+dWuzU="}
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: AppModule : intervalJob : data.length: 0
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340678965","signature":"2unCVYlJP1wxHOUZVU3VFdNzsGXs+N+tqP+ZVpv0MVY="}
+info: SfService : int : token: {"access_token":"00D8e000000Qsbt!AQ4AQHg0WI5zJEsgh0in2EGVexDhIvt1nyqM__zJ6ebaJH4sPYgUm3Weo9cPAA5chBSd_uH_jHFu1PCh6C48UTtxYYrU90I7","instance_url":"https://struto-d-dev-ed.develop.my.salesforce.com","id":"https://login.salesforce.com/id/00D8e000000QsbtEAC/0058e0000014qqKAAQ","token_type":"Bearer","issued_at":"1685340679755","signature":"7GAve+36SNc2buCJrvxA/5n8OqvLR1Ex3quhgD7bzhM="}

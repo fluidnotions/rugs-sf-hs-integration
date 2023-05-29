@@ -12,7 +12,7 @@ W.P Supplies would like to have their Salesforce records synced to HubSpot. The 
 * https://krissparks.medium.com/saleforce-rest-api-integration-w-oauth-for-devlopers-wip-966089cd785e
 
 ### ToDo
-* data mapping not showing up in properties on hs
+* HS workflow
 
 
  
